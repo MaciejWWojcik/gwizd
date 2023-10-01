@@ -1,0 +1,16 @@
+<section class="filters-container">
+  <app-chip-select-list
+    [options]="animalKindChipSelectList"
+    placeholder="Rodzaj zwierzęcia"
+    (selectOptionChange)="setAnimalKind($event)"
+    class="filters-animal-kind"
+  ></app-chip-select-list>
+  <app-chip-select-list
+    *ngIf="selectedAnimalKind"
+    [options]="animalSpecieChipSelectList"
+    [selectedOption]="selectedAnimalKindOption"
+    [resetSelector]="resetSelector"
+    (selectOptionChange)="setAnimalSpecie($event)"
+    placeholder="Wybierz gatunek"
+  ></app-chip-select-list>
+</section>

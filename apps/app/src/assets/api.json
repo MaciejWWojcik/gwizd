@@ -1,0 +1,1307 @@
+[
+	{
+		"id": "681d665b-9aa9-4d2b-9a9c-447ce2914dbe",
+		"elements": [
+			{
+				"id": "e65c31f4-5ab7-463f-8f7d-4fcba2b1ffc9",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696042238950,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02095602159482,
+					"y": 19.956930294990553
+				}
+			},
+			{
+				"id": "2086b550-3705-4702-98b5-78e9856a3feb",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696095889674,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02303323103722,
+					"y": 19.960017622043527
+				}
+			},
+			{
+				"id": "e3014883-5d32-480d-80ab-6397008443f2",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696094044153,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.0213741439305,
+					"y": 19.955770662358066
+				}
+			},
+			{
+				"id": "fa75a015-c839-4c52-a92d-31e195f041f0",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696040686538,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.023488307903065,
+					"y": 19.964919055941177
+				}
+			},
+			{
+				"id": "b5c73191-a33a-4951-aea8-cbbb1652ae06",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696041196251,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02109930779092,
+					"y": 19.962887445081172
+				}
+			}
+		],
+		"center": {
+			"x": 50.0219902024513,
+			"y": 19.9601050160829
+		},
+		"radius": 30.063383329146635,
+		"weight": 0.625,
+		"timestamp": 1696117612958
+	},
+	{
+		"id": "ec649811-a311-488c-b37d-abae58251797",
+		"elements": [
+			{
+				"id": "23f3c3ef-a802-47b7-b1a3-fd6bddad5dd0",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696065372191,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06349362699192,
+					"y": 19.978027316050138
+				}
+			},
+			{
+				"id": "89f72cf6-cfb3-4111-8041-803d4fd9742b",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696082369466,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.061733114911455,
+					"y": 19.97746699082761
+				}
+			},
+			{
+				"id": "2682072b-3b53-41bb-8e80-38127b3c6988",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696063762622,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06220530247791,
+					"y": 19.978465314169515
+				}
+			},
+			{
+				"id": "fadf3233-a306-41ec-8d4c-ab749a50cb5d",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696098609132,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06121351569714,
+					"y": 19.97845947924661
+				}
+			}
+		],
+		"center": {
+			"x": 50.06216139001961,
+			"y": 19.97810477507347
+		},
+		"radius": 30.08538888141542,
+		"weight": 0.5,
+		"timestamp": 1696112370628
+	},
+	{
+		"id": "7562bf1b-037c-4137-bba1-ed2547f33156",
+		"elements": [
+			{
+				"id": "9d3ca423-2a57-4b9d-8b0c-15033ea66a35",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696090549374,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.063292652653736,
+					"y": 19.958377000099663
+				}
+			},
+			{
+				"id": "c951e283-818d-4102-8d3a-68a52e8f6479",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696054854838,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06465656917743,
+					"y": 19.95577963876925
+				}
+			},
+			{
+				"id": "abe5a515-3ef2-4a6c-b853-32cc4d91bdd4",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696101270728,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.062552810765894,
+					"y": 19.957578738601022
+				}
+			},
+			{
+				"id": "6c75caa1-24d5-4105-ba07-873b3728c24f",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696067689824,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06844199042142,
+					"y": 19.957782739533922
+				}
+			},
+			{
+				"id": "1cc36260-d2ea-49d8-a928-6ab875cc899c",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696059092694,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.067542126927165,
+					"y": 19.954807132183756
+				}
+			},
+			{
+				"id": "03e9ec07-d774-4e4c-847a-6bbcb09f290c",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696099484292,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06951334208417,
+					"y": 19.961329620740436
+				}
+			}
+		],
+		"center": {
+			"x": 50.0659999153383,
+			"y": 19.95760914498801
+		},
+		"radius": 30.111904402067715,
+		"weight": 0.75,
+		"timestamp": 1696114254148
+	},
+	{
+		"id": "beefe754-6c27-4c20-8cd7-81285cf5e1d3",
+		"elements": [
+			{
+				"id": "ddbeee5f-3e1f-42ab-9cc0-3c3f46b3cb1e",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696074483951,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02156354010812,
+					"y": 20.053208239195992
+				}
+			},
+			{
+				"id": "ab388cbe-0e75-4a60-b71a-1faa36a69b64",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696043704552,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01911878250276,
+					"y": 20.051395927585702
+				}
+			},
+			{
+				"id": "5fd474e4-3f68-47d4-a577-19d8279a5fad",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696088904681,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01870396050441,
+					"y": 20.052758722433335
+				}
+			}
+		],
+		"center": {
+			"x": 50.0197954277051,
+			"y": 20.052454296405013
+		},
+		"radius": 29.969109295860502,
+		"weight": 0.375,
+		"timestamp": 1696062118332
+	},
+	{
+		"id": "55f4774f-a820-4ea8-9ee1-77f7d9004b3e",
+		"elements": [
+			{
+				"id": "68343e92-ca36-466f-b138-496a5f52e1fe",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696079284644,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.08228659551374,
+					"y": 19.93449081965123
+				}
+			},
+			{
+				"id": "670811bc-d379-4286-8c36-43ba5a23f1af",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696100572249,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.08021986308262,
+					"y": 19.932821513275577
+				}
+			},
+			{
+				"id": "f87cf3cd-c490-4d70-a7d6-7a1633e06c13",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696043279100,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.086461019475536,
+					"y": 19.931922410341283
+				}
+			}
+		],
+		"center": {
+			"x": 50.082989159357304,
+			"y": 19.93307824775603
+		},
+		"radius": 30.15338297159447,
+		"weight": 0.375,
+		"timestamp": 1696050657377
+	},
+	{
+		"id": "e460017b-c3e3-4743-8220-37e89bcc33e3",
+		"elements": [
+			{
+				"id": "8f57b381-0783-4928-97c4-eb5eac6e7d23",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696087620518,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06701913881552,
+					"y": 20.02327206027481
+				}
+			},
+			{
+				"id": "3ee91762-8ae2-4a73-a8a1-325831d56260",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696068024628,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.064334324189424,
+					"y": 20.02366588928046
+				}
+			},
+			{
+				"id": "b03e3bc4-836c-45d4-9d1b-448031a1dbeb",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696093183132,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.067747570299936,
+					"y": 20.022382900294982
+				}
+			}
+		],
+		"center": {
+			"x": 50.066367011101626,
+			"y": 20.023106949950087
+		},
+		"radius": 30.04464065206838,
+		"weight": 0.375,
+		"timestamp": 1696118027492
+	},
+	{
+		"id": "6e0e0d6d-1fe9-48ea-b5de-750b69c4d268",
+		"elements": [
+			{
+				"id": "1c58dd51-b459-46b4-b9b0-27e1ee4fae6c",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696114446008,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.09374259378667,
+					"y": 19.816858280493715
+				}
+			},
+			{
+				"id": "141c54f8-1f51-4db4-8540-2d4367763fba",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696092272885,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.09872840716922,
+					"y": 19.816524638078942
+				}
+			},
+			{
+				"id": "538287d1-f10f-4348-bf33-b0dd9ad93cca",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696103384919,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.092133925558755,
+					"y": 19.817716554328282
+				}
+			}
+		],
+		"center": {
+			"x": 50.094868308838215,
+			"y": 19.817033157633645
+		},
+		"radius": 30.28169549556472,
+		"weight": 0.375,
+		"timestamp": 1696079520185
+	},
+	{
+		"id": "4c625b87-047a-4f11-90cc-410b399c296b",
+		"elements": [
+			{
+				"id": "4dea6545-d8b6-4aca-af83-2b0ef03ecc1b",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696061685727,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01227848204867,
+					"y": 20.006033477845723
+				}
+			},
+			{
+				"id": "282cb30e-51c3-47e2-b563-bde84eb5f0ac",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696094900521,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01027974463679,
+					"y": 20.009198410886494
+				}
+			},
+			{
+				"id": "fb87bffd-3a04-44cf-91b2-44a9245760c4",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696037302103,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01710091776823,
+					"y": 20.00729694390682
+				}
+			},
+			{
+				"id": "0be45680-4d2a-4420-af99-2fb4951c0727",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696047872616,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.00888149662591,
+					"y": 20.00880426714359
+				}
+			},
+			{
+				"id": "6c9ba91c-c0f5-41af-b528-58ca4b110557",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696051662547,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.012750279781706,
+					"y": 20.013174822220982
+				}
+			},
+			{
+				"id": "9d366664-eb1c-4c77-8597-c53baad52e33",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696087498655,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01357091810555,
+					"y": 20.014179861155686
+				}
+			}
+		],
+		"center": {
+			"x": 50.01247697316114,
+			"y": 20.009781297193218
+		},
+		"radius": 30.007319976835817,
+		"weight": 0.75,
+		"timestamp": 1696036212117
+	},
+	{
+		"id": "713944ed-c7ea-4eeb-a80c-e2f19c10449f",
+		"elements": [
+			{
+				"id": "1ca26c36-8a36-41c8-8e5c-5bb59d02fd1b",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696083592722,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01441280743477,
+					"y": 19.91636026934007
+				}
+			},
+			{
+				"id": "31ac2cb9-2270-4689-b40b-5f7ac6a72c5b",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696098987719,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.0129405722394,
+					"y": 19.919736906818972
+				}
+			},
+			{
+				"id": "fb0f291a-28ba-499e-a24d-ea288d482bbb",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696088861047,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01578768471421,
+					"y": 19.912069622307012
+				}
+			},
+			{
+				"id": "b4fc1786-8e33-4b30-849e-96afc2ae382d",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696043859216,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.014132400230025,
+					"y": 19.908167790738677
+				}
+			},
+			{
+				"id": "5c3c9e2a-77c8-4867-9c7b-9f8366756e60",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696089535052,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.017967549245384,
+					"y": 19.906743346331645
+				}
+			},
+			{
+				"id": "2ce1af93-4a41-4316-9d70-dc72416cc735",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696065805756,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.010534712011264,
+					"y": 19.90877769270373
+				}
+			},
+			{
+				"id": "7446f221-66cb-4692-8141-a51e66ff0182",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696061466837,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.01912290194179,
+					"y": 19.904573521142943
+				}
+			},
+			{
+				"id": "888fb80c-3458-49c2-9317-53eba43477c9",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696073241153,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02055385641652,
+					"y": 19.90205193042466
+				}
+			}
+		],
+		"center": {
+			"x": 50.01568156052917,
+			"y": 19.90981013497596
+		},
+		"radius": 30.110744115639843,
+		"weight": 1.0,
+		"timestamp": 1696070364573
+	},
+	{
+		"id": "cf924798-fc80-439c-b566-83c08327d58f",
+		"elements": [
+			{
+				"id": "f4df742e-b85f-4f50-9e87-553392b9afbd",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696076875559,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.00569628419788,
+					"y": 19.910468619927645
+				}
+			},
+			{
+				"id": "ce5481c0-d334-4a29-8865-ad2b3a7dca29",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696065997282,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.00404019111137,
+					"y": 19.90970599818154
+				}
+			},
+			{
+				"id": "cbf59df8-7e08-49d4-92b6-25689c14a1f4",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696061864192,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.00435144847414,
+					"y": 19.91523496082685
+				}
+			},
+			{
+				"id": "ef2addbb-18c4-452a-8457-62cec7608dcb",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696113953494,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.003762837516916,
+					"y": 19.919060242004385
+				}
+			}
+		],
+		"center": {
+			"x": 50.00446269032508,
+			"y": 19.913617455235105
+		},
+		"radius": 30.09207885424773,
+		"weight": 0.5,
+		"timestamp": 1696051260503
+	},
+	{
+		"id": "b855761e-e43d-4d12-9d87-b4d812489aed",
+		"elements": [
+			{
+				"id": "dfdace4e-771c-4cf2-ab7e-b7cf0f18f1ea",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696064398203,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.03068789030069,
+					"y": 19.982519961535335
+				}
+			},
+			{
+				"id": "f25a54c7-bc94-47fa-993a-8a8d137f584e",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696062941620,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.03095944680381,
+					"y": 19.9829695606295
+				}
+			},
+			{
+				"id": "5d9b1560-6feb-43fa-801a-063ff91b0355",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696079686050,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.03439377536621,
+					"y": 19.981156428280297
+				}
+			},
+			{
+				"id": "58610ad2-8efa-4254-a31d-715a10747b85",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696094261009,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.03319221473365,
+					"y": 19.976417734742956
+				}
+			},
+			{
+				"id": "41490ff9-a1ed-4ea6-acfc-1662f2f599a2",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696045839626,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02915508984801,
+					"y": 19.974291129838747
+				}
+			}
+		],
+		"center": {
+			"x": 50.03167768341048,
+			"y": 19.979470963005365
+		},
+		"radius": 30.054922935088754,
+		"weight": 0.625,
+		"timestamp": 1696082867749
+	},
+	{
+		"id": "efa71ee3-5163-464d-853c-6b35907e7bb6",
+		"elements": [
+			{
+				"id": "c6d6cb3e-cec9-4800-b63a-b8c2eafd36e1",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696121821749,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.04345086839674,
+					"y": 19.96633930691849
+				}
+			},
+			{
+				"id": "a0701900-7b30-49ac-81d0-ff0cf03d380e",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696065576943,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.043950822074464,
+					"y": 19.969015702766757
+				}
+			},
+			{
+				"id": "09b67bcb-3247-4dcb-aca3-ee713445cbb4",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696040467800,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.04474424880205,
+					"y": 19.969896038481217
+				}
+			}
+		],
+		"center": {
+			"x": 50.044048646424415,
+			"y": 19.968417016055486
+		},
+		"radius": 30.076327240790473,
+		"weight": 0.375,
+		"timestamp": 1696071130615
+	},
+	{
+		"id": "9482c264-7885-4a79-906d-d385824edf72",
+		"elements": [
+			{
+				"id": "328e44c8-5e7a-4f59-a894-6c73c8cf4ee0",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696044696813,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.09017566027742,
+					"y": 19.8996081209751
+				}
+			},
+			{
+				"id": "d757a868-f690-4116-adea-19243a6241c5",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696119074575,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.09281352131582,
+					"y": 19.8971963286498
+				}
+			},
+			{
+				"id": "3b72ba24-cfa3-486e-b524-7ef1999d9bc7",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696081162686,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.091746853708564,
+					"y": 19.894905162467026
+				}
+			}
+		],
+		"center": {
+			"x": 50.09157867843393,
+			"y": 19.897236537363977
+		},
+		"radius": 30.195577009201184,
+		"weight": 0.375,
+		"timestamp": 1696117687578
+	},
+	{
+		"id": "39e0d1b6-9259-4a42-8f35-cb8d8a41d3f1",
+		"elements": [
+			{
+				"id": "ed50df98-dc41-49fa-9541-b183f28ac49f",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696085221248,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06488703576153,
+					"y": 19.80394526939704
+				}
+			},
+			{
+				"id": "e568a2f3-107f-4f95-9bf3-682ebad0ba12",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696103524340,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06296736282025,
+					"y": 19.803205819416128
+				}
+			},
+			{
+				"id": "5888063f-3622-43ff-881f-8171f19b4f56",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696051838858,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06577318801068,
+					"y": 19.807723932720723
+				}
+			}
+		],
+		"center": {
+			"x": 50.06454252886416,
+			"y": 19.804958340511295
+		},
+		"radius": 30.26081487252386,
+		"weight": 0.375,
+		"timestamp": 1696082797988
+	},
+	{
+		"id": "5ad15f1b-67b6-43b5-aaaf-8c7bf0f72d3a",
+		"elements": [
+			{
+				"id": "32eb57e1-7084-4191-9bdd-61434d588e90",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696075209053,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.09355285547169,
+					"y": 19.947084569623385
+				}
+			},
+			{
+				"id": "12f8ebee-61ca-47b5-995d-e986cecba406",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696058071564,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.093239235899226,
+					"y": 19.94380618386041
+				}
+			},
+			{
+				"id": "9a5a28d9-b2cc-42a4-a2a8-d7564904d4a9",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696047336491,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.096526601033034,
+					"y": 19.949783686295394
+				}
+			}
+		],
+		"center": {
+			"x": 50.09443956413465,
+			"y": 19.946891479926396
+		},
+		"radius": 30.149635193341723,
+		"weight": 0.375,
+		"timestamp": 1696056388381
+	},
+	{
+		"id": "b68ab072-d558-4615-a4b9-a818d6d1a908",
+		"elements": [
+			{
+				"id": "2ede9db4-0da2-4745-b0ce-665c1527042a",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696116086459,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.095777777396094,
+					"y": 19.86506186539694
+				}
+			},
+			{
+				"id": "f8d3d7ce-cc36-43e6-a24c-ff38aaac2c6b",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696052438650,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.09841010933205,
+					"y": 19.863284630957178
+				}
+			},
+			{
+				"id": "bc52e08a-a552-4abc-8737-27d0f9fe67b4",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696101929706,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.093792456256416,
+					"y": 19.860665992113006
+				}
+			},
+			{
+				"id": "8c4547b6-af38-47d7-b839-52fb279b6305",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696086578378,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.0929830153031,
+					"y": 19.859778294103965
+				}
+			}
+		],
+		"center": {
+			"x": 50.095240839571915,
+			"y": 19.862197695642774
+		},
+		"radius": 30.236212579785985,
+		"weight": 0.5,
+		"timestamp": 1696114612648
+	},
+	{
+		"id": "75fcf0de-463c-47b0-8f26-de2fd1e30be5",
+		"elements": [
+			{
+				"id": "7b051458-6ab5-4927-9472-1dd3ccde3834",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696059620744,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.07953619941905,
+					"y": 19.828771407293576
+				}
+			},
+			{
+				"id": "8f84daca-a6a0-4fc6-b0c3-2f7baefa1b68",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696118911319,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.083469915758926,
+					"y": 19.82927102307808
+				}
+			},
+			{
+				"id": "7a29d8bc-41b6-4c52-8719-f917a6175976",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696054584668,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.07659339784934,
+					"y": 19.825881790869087
+				}
+			}
+		],
+		"center": {
+			"x": 50.07986650434244,
+			"y": 19.82797474041358
+		},
+		"radius": 30.255495389927418,
+		"weight": 0.375,
+		"timestamp": 1696045334702
+	},
+	{
+		"id": "f3d48059-f157-45cc-a278-a55186017886",
+		"elements": [
+			{
+				"id": "6033f328-5d4c-4134-98ea-dc8f1d70757c",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696069343478,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.05030175850301,
+					"y": 20.030906743761946
+				}
+			},
+			{
+				"id": "58766183-1265-42e1-a935-9ef71d868ac7",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696064372462,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.04636687279787,
+					"y": 20.029628234763056
+				}
+			},
+			{
+				"id": "0b214aa7-e57e-4f17-accd-51e2fab04694",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696102634796,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.05175378882924,
+					"y": 20.030445882454202
+				}
+			}
+		],
+		"center": {
+			"x": 50.04947414004337,
+			"y": 20.030326953659735
+		},
+		"radius": 30.021426921720995,
+		"weight": 0.375,
+		"timestamp": 1696096408332
+	},
+	{
+		"id": "3f1ff8ef-984c-4938-b84a-f9fd41a712d1",
+		"elements": [
+			{
+				"id": "547a02a3-0d74-4fde-839a-0c002ddd0b3e",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696053500181,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.03003275526006,
+					"y": 19.891445802338396
+				}
+			},
+			{
+				"id": "670a9427-ba03-4cd5-8490-01bf7acefd69",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696049180071,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02664931654706,
+					"y": 19.88913815377461
+				}
+			},
+			{
+				"id": "0edbd472-620a-43bf-8d4f-2438281d7b02",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696051394270,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.02872346139807,
+					"y": 19.89477637518772
+				}
+			}
+		],
+		"center": {
+			"x": 50.02846851106839,
+			"y": 19.89178677710024
+		},
+		"radius": 30.13824601875375,
+		"weight": 0.375,
+		"timestamp": 1696053497829
+	},
+	{
+		"id": "41296122-ea6f-4230-b056-3a4e0901d9c1",
+		"elements": [
+			{
+				"id": "03f637e3-8439-49d1-8916-475bdd804d49",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696119097416,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06698341696074,
+					"y": 19.837867130537717
+				}
+			},
+			{
+				"id": "7ab03a07-60fb-4be0-aba7-5db816b7741a",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696070793270,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06572351797166,
+					"y": 19.840562111817146
+				}
+			},
+			{
+				"id": "138e7722-8a9c-438c-ab61-f4ab687620ca",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696122398155,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06716793043859,
+					"y": 19.835340795973686
+				}
+			}
+		],
+		"center": {
+			"x": 50.066624955123665,
+			"y": 19.837923346109516
+		},
+		"radius": 30.229244589205518,
+		"weight": 0.375,
+		"timestamp": 1696089073599
+	},
+	{
+		"id": "a03fb414-618d-432c-94c3-499fd38d26f3",
+		"elements": [
+			{
+				"id": "604829a4-3cca-426f-8910-e2c210300c4f",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696087289109,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.06006517898764,
+					"y": 19.856518065285957
+				}
+			},
+			{
+				"id": "28920c42-82d4-414c-8822-2b2ae5715396",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696059826883,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.057198969486514,
+					"y": 19.855380835455872
+				}
+			},
+			{
+				"id": "42c4a20f-6822-4a8b-91ed-00818fe5272f",
+				"kind": "dog, cat, boar, bear, hedgehog, bird",
+				"specie": "wtfisthis",
+				"picture": "",
+				"timestamp": 1696099961337,
+				"record": "",
+				"isInjured": false,
+				"position": {
+					"x": 50.0620882821686,
+					"y": 19.86034826143865
+				}
+			}
+		],
+		"center": {
+			"x": 50.059784143547596,
+			"y": 19.857415720726824
+		},
+		"radius": 30.20467264932644,
+		"weight": 0.375,
+		"timestamp": 1696040737789
+	}
+]

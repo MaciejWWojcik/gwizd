@@ -1,0 +1,37 @@
+:host {
+  display: block;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+
+.timestamp-indicator {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 10000;
+  background-color: white;
+  border-radius: 100px;
+  width: auto;
+  padding: 5px 10px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  display: flex;
+  align-items: center;
+
+  img {
+    height: 18px;
+    width: 18px;
+    font-size: 18px;
+    margin-right: 7px;
+  }
+
+  .red-dot {
+    height: 8px;
+    width: 8px;
+    border-radius: 100px;
+    background-color: red;
+    margin-right: 5px;
+  }
+}

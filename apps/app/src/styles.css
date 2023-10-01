@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: 'Lato';
+  src: url('./assets/fonts/Lato-Black.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.mat-mdc-fab,
+.mat-mdc-mini-fab {
+  background-color: #02b280 !important;
+}
+
+mat-slider {
+  --mdc-slider-handle-color: #02b280 !important;
+  --mdc-slider-focus-handle-color: #02b280 !important;
+  --mdc-slider-hover-handle-color: #02b280 !important;
+  --mdc-slider-active-track-color: #02b280 !important;
+  --mdc-slider-inactive-track-color: #02b280 !important;
+  --mdc-slider-with-tick-marks-active-container-color: #fff;
+  --mdc-slider-with-tick-marks-inactive-container-color: #02b280 !important;
+  --mat-mdc-slider-ripple-color: #02b280 !important;
+  --mat-mdc-slider-hover-ripple-color: rgba(63, 81, 181, 0.05);
+  --mat-mdc-slider-focus-ripple-color: rgba(63, 81, 181, 0.2);
+}

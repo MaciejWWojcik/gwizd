@@ -1,0 +1,40 @@
+@use "variables";
+
+@mixin reset-button {
+  border: 0;
+  padding: 0;
+  background: transparent;
+}
+
+@mixin base-button {
+  @include reset-button;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 100px;
+  padding: 15px 60px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+@mixin primary-button {
+  @include base-button;
+  background-color: variables.$primary-red;
+  color: white;
+
+  &:hover {
+    background-color: variables.$secondary-red;
+  }
+}
+
+@mixin secondary-button {
+  @include base-button;
+  border: 1px solid black;
+
+  &:hover {
+    background-color: variables.$light-gray;
+  }
+
+}

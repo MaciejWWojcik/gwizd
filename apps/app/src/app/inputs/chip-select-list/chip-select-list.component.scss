@@ -1,0 +1,30 @@
+.mat-mdc-standard-chip {
+  background-color: white !important;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+mat-select {
+  opacity: 0;
+  width: calc(100% + 30px);
+  display: block;
+  transform: translateY(-20px);
+  pointer-events: none;
+}
+
+mat-option {
+  span {
+    display: flex;
+    align-items: center;
+  }
+
+  img {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+  }
+}
+
+.mdc-evolution-chip__icon--primary {
+  border-radius: 0 !important;
+}
+

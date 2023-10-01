@@ -1,0 +1,13 @@
+<mat-chip (click)="openSelectDialog()" class="chip-select">
+  <img *ngIf="selectedOption?.chipIconSrc" matChipAvatar [src]="selectedOption?.chipIconSrc"/>
+  {{ selectedOption?.key ?? placeholder }}
+  <mat-icon matChipTrailingIcon>expand_more</mat-icon>
+</mat-chip>
+<mat-select #select (selectionChange)="setSelectedOption($event)">
+  <mat-option *ngFor="let option of options" [value]="option">
+    <span>
+      <img *ngIf="option.chipIconSrc" [src]="option.chipIconSrc">
+      {{ option.key }}
+    </span>
+  </mat-option>
+</mat-select>
